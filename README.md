@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm here ☕
 
-<!--
-**Willow-dirty177/Willow-dirty177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Willow-dirty177**, a backend chef.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on personal side projects
+- 🎯 Goal: ship something useful every week
+- 🤔 Exploring new technologies
+- 🌱 Always learning new things
+- 🛠️ Build small, ship often
+
+## Tech
+
+`Java` `Protobuf` `Kubernetes` `Ruby` `Express`
+
+---
+
+_Bug hunter._
